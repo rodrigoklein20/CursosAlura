@@ -20,3 +20,7 @@ const alunos = [
   "Daisy",
   "Camilo",
 ];
+
+const sala1 = alunos.slice(0,10);
+
+console.log(sala1)
